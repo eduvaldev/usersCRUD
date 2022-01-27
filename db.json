@@ -1,0 +1,25 @@
+{
+  "usuarios": [
+    {
+      "nombre": "nvalencia",
+      "edad": 24,
+      "correo": "nicolas@nicolas.com",
+      "contraseña": "123456789",
+      "id": 1
+    },
+    {
+      "nombre": "nvalencia",
+      "edad": 24,
+      "correo": "nicolas@nicolas.com",
+      "contraseña": "123456789",
+      "id": 4
+    },
+    {
+      "nombre": "camilo",
+      "edad": 27,
+      "correo": "camilo@correo.com",
+      "contraseña": "456123",
+      "id": 5
+    }
+  ]
+}
